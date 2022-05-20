@@ -3,6 +3,7 @@ package org.emp;
 public class Employee {
 	public void empId(int age) {
 		System.out.println("Employee age: "+age);
+		System.out.println("Emp id is displayed");
 
 	}
 	public void empId(String name) {
