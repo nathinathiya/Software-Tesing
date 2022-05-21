@@ -4,6 +4,7 @@ public class Employee {
 	public void empId(int age) {
 		System.out.println("Employee age: "+age);
 		System.out.println("Emp id is displayed");
+		System.out.println("new line updated by nithu");
 
 	}
 	public void empId(String name) {
